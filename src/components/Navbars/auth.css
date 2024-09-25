@@ -1,0 +1,9 @@
+/* auth.css */
+.logo {
+    width: 250px;          /* Increase width */
+    height: 100px;         /* Set height */
+    object-fit: contain;   /* Ensure aspect ratio is maintained */
+    max-width: 100%;       /* Ensure it does not overflow its container */
+    max-height: 100px;     /* Cap the height */
+  }
+  
